@@ -20,6 +20,6 @@
 - Run the script
   - `python3 sde.py`
 
-There are two commands available, 
-`python3 sde.py create-sample-data`
-`python3 sde.py calculate-suitability-score`
+### There are two commands available:
+- `python3 sde.py create-sample-data`
+- `python3 sde.py calculate-suitability-score`
