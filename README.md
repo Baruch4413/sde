@@ -12,14 +12,14 @@
   - `git clone git@github.com:Baruch4413/sde.git`
   - `cd sde`
 - Create a virtual environment
-  - `python -m venv venv`
+  - `python3 -m venv venv`
 - Activate the virtual environment
   - `. venv/bin/activate`
 - Install dependencies with pip
   - `pip install -r requirements.txt`
 - Run the script
-  - `python sde.py`
+  - `python3 sde.py`
 
 There are two commands available, 
-`python sde.py create-sample-data`
-`python sde.py calculate-suitability-score`
+`python3 sde.py create-sample-data`
+`python3 sde.py calculate-suitability-score`
